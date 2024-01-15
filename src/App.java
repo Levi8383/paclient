@@ -4,7 +4,7 @@
 * Copyright: 2024, Szilágyi Levente
 * Group: Szoft II/1/E
 * Date: 2023-01-15
-* Github: 
+* Github: https://github.com/Levi8383/paclient
 * Licenc: GNU GPL
 */
 
